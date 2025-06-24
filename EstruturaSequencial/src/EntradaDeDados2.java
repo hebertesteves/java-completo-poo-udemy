@@ -1,7 +1,9 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class EntradaDeDados2 {
     public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
         int x;
@@ -18,6 +20,17 @@ public class EntradaDeDados2 {
         System.out.println(s1);
         System.out.println(s2);
         System.out.println(s3);
+
+        /* Exercicio Resolvido 01 */
+        double largura = sc.nextDouble();
+        double comprimento = sc.nextDouble();
+        double valorPorMetro = sc.nextDouble();
+
+        double area = largura * comprimento;
+        double preco = area * valorPorMetro;
+
+        System.out.printf("AREA = %.2f%n", area);
+        System.out.printf("PRECO = %.2f%n", preco);
 
         sc.close();
     }
