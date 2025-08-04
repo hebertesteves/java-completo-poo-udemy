@@ -1,4 +1,4 @@
-package exercicio01.model.entities;
+package exercicio01_v1.model.entities;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
