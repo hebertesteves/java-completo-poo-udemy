@@ -38,25 +38,3 @@ Este curso é um dos **mais completos e didáticos** de Java disponíveis na pla
 ## ✅ Progresso atual
 
 O repositório já incorpora os principais exercícios e exemplos de cada tópico, de acordo com os commits recentes (por exemplo: `HerancaPolimorfismo`, `ManipulacaoDeArquivos`, etc.).
-
----
-
-## ✍️ Sobre o autor
-
-**Hebert dos Reis Esteves**  
-Estudante de Análise e Desenvolvimento de Sistemas – FECAP  
-Interesse em backend em Java (e Node.js) para construção de APIs e sistemas robustos
-
-Conecte-se: [LinkedIn](https://www.linkedin.com/in/hebertesteves/) • [GitHub](https://github.com/hebertesteves)
-
----
-
-## 📌 Observações
-
-Este repositório tem fins **exclusivamente educacionais** e documenta meu processo de aprendizado do curso. Todos os códigos foram desenvolvidos com base no conteúdo ministrado pelo Nélio Alves.
-
-
----
-
-Se quiser que eu personalize mais alguma parte (como progresso, projetos práticos, etc.), posso ajustar!
-
