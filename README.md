@@ -32,9 +32,3 @@ Este curso é um dos **mais completos e didáticos** de Java disponíveis na pla
 - Programação funcional com Expressões Lambda e API Stream
 - Desenvolvimento com JDBC, JavaFX
 - Frameworks e ferramentas profissionais: Spring Boot, JPA/Hibernate, Maven, acesso a bancos relacionais e NoSQL
-
----
-
-## ✅ Progresso atual
-
-O repositório já incorpora os principais exercícios e exemplos de cada tópico, de acordo com os commits recentes (por exemplo: `HerancaPolimorfismo`, `ManipulacaoDeArquivos`, etc.).
