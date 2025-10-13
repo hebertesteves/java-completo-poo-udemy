@@ -1,6 +1,6 @@
-package application;
+package jdbc1.application;
 
-import db.DB;
+import jdbc1.db.DB;
 
 import java.sql.Connection;
 
