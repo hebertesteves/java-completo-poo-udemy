@@ -8,8 +8,6 @@ Este repositório reúne **exercícios, exemplos e projetos desenvolvidos** dura
 
 O repositório está organizado por tema e por conteúdo, seguindo a sequência didática do curso:
 
-java-completo-poo-udemy/ ├── ConstrutoresEncapsulamento/ ├── DataHora/ ├── EnumeracoesComposicao/ ├── EstruturaCondicional/ ├── EstruturaSequencial/ ├── EstruturasRepetitivas/ ├── HerancaPolimorfismo/ ├── IntroducaoPOO/ ├── ManipulacaoDeArquivos/ ├── OutrosTopicos/ ├── TratamentoDeExcecoes/ ├── VetoresListasMatrizes/ └── README.md
-
 Essas pastas refletem os principais tópicos do curso, como:
 - Programação Orientada a Objetos (POO): introdução, herança, polimorfismo, encapsulamento e construtores
 - Controle de fluxo: estruturas condicionais, sequenciais e repetitivas
